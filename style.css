@@ -1,0 +1,41 @@
+h1{
+    color: red;
+    background-color: blue;
+    border: 4px solid black ;
+}
+h2{
+    color: red();
+    background-color: #d82121;
+}
+h3{
+    color: aqua;
+    background-color: #2143d8;
+}
+h4{
+    color: rgb(14, 14, 25);
+    background-color: blueviolet;
+}
+button{
+    width: 180px;
+    height: 40px;
+    border: none;
+    background-color: #fff;
+    font-size: 25px;
+    font-weight: 600;
+}
+button:hover{
+    background-color: #d82121;
+    border-radius: 40px;
+}
+marquee{
+    color: #d82121;
+    background-color: rgb(10, 229, 94);
+    padding: 10px;
+    font-size: 30px;
+    font-weight: 900;
+}
+marquee:hover{
+    color: aqua;
+    background-color: rgb(194, 22, 22);
+    
+}
